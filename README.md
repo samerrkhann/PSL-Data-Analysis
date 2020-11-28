@@ -5,21 +5,21 @@ IT has 6 Teams 'ISLAMABAD UNITED', 'KARACHI KINGS', 'PESHAWAR ZALMI', 'QUETTA GL
 ## Features:
 The dataset is of 127 matches 
 
-Team_1              127 non-null object
-Team_2              127 non-null object
-Team1_Code          127 non-null object
-Team2_Code          127 non-null object
-Season              127 non-null int64
-venue               127 non-null object
-id                  127 non-null int64
-Win_By_Wkts         127 non-null int64
-Win_By_Runs         127 non-null int64
-toss_winner         127 non-null object
-toss_winner_code    127 non-null object
-toss_decision       127 non-null object
-result              127 non-null object
-winner              127 non-null object
-winner_code         127 non-null object
+- Team_1              127 non-null object
+- Team_2              127 non-null object
+- Team1_Code          127 non-null object
+- Team2_Code          127 non-null object
+- Season              127 non-null int64
+- venue               127 non-null object
+- id                  127 non-null int64
+- Win_By_Wkts         127 non-null int64
+- Win_By_Runs         127 non-null int64
+- toss_winner         127 non-null object
+- toss_winner_code    127 non-null object
+- toss_decision       127 non-null object
+- result              127 non-null object
+- winner              127 non-null object
+- winner_code         127 non-null object
 
 ## Findings:
 I have answered some of the following questions
@@ -33,5 +33,5 @@ I have answered some of the following questions
 ## Suggestions:
 This is the practice data set and I felt more comfortable in exploring it then making model out of it becuase it doesnot contain the runs or wickets of each team at the end of the innings also there is lack of the numerical data as well
 so in my opinion it is naive to make predictor of this dataset.
-For your practice though, I am not limiting you guys. feel free to explore the data and make the model out of it 
+For your practice though, I am not limiting you guys. feel free to explore the data and make the model out of it. 
 Data link : https://raw.githubusercontent.com/Asadullah007/PSL-Prediction-/master/PSL_2016-2020.csv
